@@ -57,7 +57,8 @@ https://canon-eos-digital-info.sourceforge.io
 I'll be very pleased if my application is interesting and helpful.
 
 
-________________________________________Supported Cameras:
+________________________________________
+Supported Cameras:
 
 The following models should be supported (not all tested):
 EOS 40D
@@ -91,7 +92,8 @@ X8i / EOS M3 / EOS 7D Mark II
 EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80 / EOS M10.
 
 
-________________________________________Frequently Asked Questions:
+________________________________________
+Frequently Asked Questions:
 •	Why my camera is not supported?
 There are technical limitations that prevent supporting some cameras:
 Older DIGIC II and Pre-DIGIC III Canon cameras like 1-series Canons (such as the 1D Mark III and 1Ds Mark III) do not provide shutter count information through the USB port. The EOS M operates in mass storage mode only, and does not allow PTP remote control which is needed for the reading.
