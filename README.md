@@ -1,0 +1,2 @@
+# Canon-EOS-Digital-Info
+Canon EOS Digital Info is for windows users, is free and will work on most recent Canon EOS Digital Cameras (models since 2010). Informations can be read from a USB-connected camera and it provides accurate data that cannot be attainable by for example reading the EXIF. This program can retrieve and edit if possible infos like: Camera Model, Shutter Count, Serial Number, Firmware Version, Battery Level , Owner, Copyright , Artist, Device date/time.
